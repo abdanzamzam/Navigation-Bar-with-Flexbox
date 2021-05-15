@@ -4,5 +4,5 @@ Navigation Bar with Flexbox
 ![Demo](https://github.com/abdanzamzam/Navigation-Bar-with-Flexbox/blob/main/navbar1.png)
 ### Demo Nav 2
 ![Demo](https://github.com/abdanzamzam/Navigation-Bar-with-Flexbox/blob/main/navbar2.png)
-## Demo Nav 3
+### Demo Nav 3
 ![Demo](https://github.com/abdanzamzam/Navigation-Bar-with-Flexbox/blob/main/navbar3.png)
